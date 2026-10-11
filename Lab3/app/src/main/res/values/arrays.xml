@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Full_Name">
+        <item>Christian GF</item>
+        <item>John Doe</item>
+        <item>John Doe</item>
+        <item>Michael Moon</item>
+        <item>Trevor Johnson</item>
+        <item>Christian GF</item>
+        <item>John Doe</item>
+        <item>John Doe</item>
+        <item>Michael Moon</item>
+        <item>Trevor Johnson</item>
+        <item>Christian GF</item>
+        <item>John Doe</item>
+        <item>John Doe</item>
+        <item>Michael Moon</item>
+        <item>Trevor Johnson</item>
+        <item>Christian GF</item>
+        <item>John Doe</item>
+        <item>John Doe</item>
+        <item>Michael Moon</item>
+        <item>Trevor Johnson</item>
+
+    </string-array>
+
+    <string-array name="message">
+        <item>Hello</item>
+        <item>Hiya</item>
+        <item>Greetings!</item>
+        <item>こにちわ</item>
+        <item>HIHI</item>
+        <item>Hello</item>
+        <item>Hiya</item>
+        <item>Greetings!</item>
+        <item>こにちわ</item>
+        <item>HIHI</item>
+        <item>Hello</item>
+        <item>Hiya</item>
+        <item>Greetings!</item>
+        <item>こにちわ</item>
+        <item>HIHI</item>
+        <item>Hello</item>
+        <item>Hiya</item>
+        <item>Greetings!</item>
+        <item>こにちわ</item>
+        <item>HIHI</item>
+    </string-array>
+
+</resources>
